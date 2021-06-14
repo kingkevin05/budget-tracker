@@ -28,7 +28,7 @@ Run the app with `npm start` in the command line.
   
   ## Usage
   
-  ![Gif demo of User routes](https://github.com/kingkevin05/social-network-api/blob/main/images/Screenshot1.png)
+  ![screenshot](https://github.com/kingkevin05/budget-tracker/blob/main/images/Screenshot1.png)
 
 
 
