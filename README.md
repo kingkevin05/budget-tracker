@@ -27,6 +27,8 @@
 Run the app with `npm start` in the command line.
   
   ## Usage
+
+  [`deployed app`](https://immense-crag-55361.herokuapp.com/)
   
   ![screenshot](https://github.com/kingkevin05/budget-tracker/blob/main/images/Screenshot1.png)
 
